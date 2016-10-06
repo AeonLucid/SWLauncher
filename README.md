@@ -1,4 +1,4 @@
-# SWLauncher
+# SWLauncher (W.I.P.)
 Soul Worker launcher that removes the need for a Japanese VPN **when launching the game**.
 
 ## How does it work?
