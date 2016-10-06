@@ -9,7 +9,7 @@ Soul Worker launcher that removes the need for a Japanese VPN **when launching t
  4. Play Soul Worker.
 
 ## Mkay that's cool, but how?
-When you press "Launch" it scrapes japanese proxies from http://gatherproxy.com/proxylist/country/?c=Japan.
+When you press "Launch" it scrapes japanese proxies from http://gatherproxy.com/proxylist/country/?c=Japan.  
 It signs into the hangame website **without a proxy** and requests the game start arguments **using a japense proxy**, if a proxy fails, it selects another proxy until it works.
 
 ## Credits
